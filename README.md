@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a computational and molecular biologist. My current areas of expertise include transcriptomics (bulk and single cell), cancer biology, _Drosophila_, and Wnt signaling. 
+
+📦 __My R packages:__
+
+* :chart_with_downwards_trend: {[ggbulksurv](https://github.com/qhuitan/ggbulksurv)} - Easy survival analysis for _Drosophila_ and _C.elegans_
+
+📝 __My projects:__
+* 🪰 {[otkwnt_embryo](https://github.com/harmstonlab/otkwnt_embryo)}: Bulk RNA-seq analysis of otk1, otk2 and wnt4 in _Drosophila_ embryo
+* 🐭 {[deaf1](https://github.com/harmstonlab/Goh_et_al_deaf1)}: ChIP-seq analysis of Deaf1 in C2C12 mouse myoblasts
+
+
+📚 __My publications:__
+* Bunnag, N., Q. H. Tan, P. Kaur et al. An Optogenetic Method to Study Signal Transduction in Intestinal Stem Cell Homeostasis. Journal of Molecular Biology 432, 3159–3176 (2020). [https://doi.org/10.1016/j.jmb.2020.03.019](https://doi.org/10.1016/j.jmb.2020.03.019) (co-first-author)
+* Q.H. Tan. Education - the New Abnormal. Chapter: Letters on Norms. in International Student Mobilities and Voices in the Asia-Pacific (ed. Cheng, Y.) 51–63 (Springer Nature Singapore, 2022). doi:10.1007/978-981-19-3675-3_4. Shareable link: [https://rdcu.be/dqT8B](https://rdcu.be/dqT8B)
+* Ng, Li F.; Kaur, Prameet; Bunnag, Nawat; Suresh, Jahnavi; Sung, Isabelle C.H.; Tan, Qian H.; Gruber, Jan; Tolwinski, Nicholas S. WNT Signaling in Disease. Cells 8, 826 (2019). [https://doi.org/10.3390/cells8080826](https://doi.org/10.3390/cells8080826)
+
+
+
+
