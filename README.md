@@ -27,6 +27,7 @@ I am a computational and molecular biologist. My current areas of expertise incl
 
 
 📚 __My publications:__
+* "Tan, QH; Harmston, N; Tolwinski, NS (2024). ggbulksurv: An R package for easy Drosophila and C. elegans survival analysis. microPublication Biology. [10.17912/micropub.biology.001060](https://www.micropublication.org/journals/biology/micropub-biology-001060)."
 * Tan, Q. H., Otgonbaatar, A., Kaur, P., Ga, A. F., Harmston, N. P., & Tolwinski, N. S. (2024). The Wnt Co-Receptor PTK7/Otk and Its Homolog Otk-2 in Neurogenesis and Patterning. Cells, 13(5), 365 [https://doi.org/10.3390/cells13050365](https://doi.org/10.3390/cells13050365)
 * Bunnag, N., Q. H. Tan, P. Kaur et al. An Optogenetic Method to Study Signal Transduction in Intestinal Stem Cell Homeostasis. Journal of Molecular Biology 432, 3159–3176 (2020). [https://doi.org/10.1016/j.jmb.2020.03.019](https://doi.org/10.1016/j.jmb.2020.03.019) (co-first-author)
 * Q.H. Tan. Education - the New Abnormal. Chapter: Letters on Norms. in International Student Mobilities and Voices in the Asia-Pacific (ed. Cheng, Y.) 51–63 (Springer Nature Singapore, 2022). doi:10.1007/978-981-19-3675-3_4. Shareable link: [https://rdcu.be/dqT8B](https://rdcu.be/dqT8B)
