@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a computational and molecular biologist. My current areas of expertise include transcriptomics (bulk and single cell), cancer biology, _Drosophila_, and Wnt signaling. 
+I am PhD candidate in the Dartmouth MCB program, co-mentored by the [Curiel Lab](https://sites.dartmouth.edu/curiellab/) and the [McKenna lab](https://mckennalab.org/). My current areas of expertise include lineage tracing, cancer immunology, and transcriptomics (bulk and single-cell). I also have some experience working with Wnt signaling in _Drosophila_.
 
 📦 __My R packages:__
 
